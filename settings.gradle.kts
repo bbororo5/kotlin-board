@@ -1,1 +1,1 @@
-rootProject.name = "kt-post"
+rootProject.name = "kt-board"
